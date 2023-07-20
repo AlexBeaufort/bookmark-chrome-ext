@@ -1,0 +1,9 @@
+This is a chrome extension that allows you to book mark what ever page you want
+
+to add this to your browser:
+
+1. Go to chrome://extensions/ and check the box for Developer mode in the top right.
+
+2. click load unpacked and navigate to the folder containing the files and upload that folder
+
+3. then open up what ever tab you want, clikc the puzzle piece in the top right corner then select Bookmarker
